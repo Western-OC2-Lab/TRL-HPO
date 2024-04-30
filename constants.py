@@ -1,0 +1,6 @@
+# mnist_file_server = "~/projects/def-shami/ishaer/RL_HPO/files"
+# mnist_file_local = "../../data"
+MNIST_FILE_LOCAL = "./data"
+MODELS_DIR = "./models"
+RESULTS_DIR = "./results"
+# saving_dir = "/home/ishaer/projects/def-shami/ishaer/RL_HPO/models"
