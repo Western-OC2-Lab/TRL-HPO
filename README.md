@@ -11,7 +11,7 @@ The link to the paper (_ieee_): https://ieeexplore.ieee.org/document/10570354/
 The functional scripts are as follows:
 1. Run `run.py` to train the model.
 2. Run `analyze_results.py` to evaluate the trained model.
-3. Run `explainability_results.py` to evaluate the trained model.
+3. Run `explainability_results.py` to understand the models' results.
 4. Run `flops_count.py` to output the FLOPS of the model.
 
 # Requirements
