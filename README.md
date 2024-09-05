@@ -7,6 +7,7 @@ be published). The _arxiv_ file is as follows:
 I. Shaer, S. Nikan, and A. Shami, "Efficient Transformer-based Hyper-parameter Optimization for Resource-constrained IoT Environments, " *arXiv preprint arXiv:2403.12237*, 2024.
 
 The link to the paper (_arxiv_): https://arxiv.org/abs/2403.12237
+The link to the paper (_ieee_): https://ieeexplore.ieee.org/document/10570354/
 
 The functional scripts are as follows:
 1. Run `run.py` to train the model.
