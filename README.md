@@ -14,6 +14,9 @@ The functional scripts are as follows:
 3. Run `explainability_results.py` to understand the models' results.
 4. Run `flops_count.py` to output the FLOPS of the model.
 
+# Methodology
+![Alt text](architecture_v3.PNG)
+
 # Requirements
 The requirements are included in the `requirements.txt` file. To install the packages included in this file, use the following command: `pip install -r requirements.txt`
 
