@@ -5,6 +5,7 @@ This code provides the implementations of Transformer-based Reinforcement Learni
 Actor-critic Reinforcement Learning. All the code documentation and variable definition mirrors the content of the manuscript published in **IEEE Internet of Things Magazine**. 
 
 The link to the paper (_arxiv_): https://arxiv.org/abs/2403.12237
+
 The link to the paper (_ieee_): https://ieeexplore.ieee.org/document/10570354/
 
 The functional scripts are as follows:
@@ -15,20 +16,6 @@ The functional scripts are as follows:
 
 # Requirements
 The requirements are included in the `requirements.txt` file. To install the packages included in this file, use the following command: `pip install -r requirements.txt`
-
-
-# Citation
-@ARTICLE{10570354,
-  author={Shaer, Ibrahim and Nikan, Soodeh and Shami, Abdallah},
-  journal={IEEE Internet of Things Magazine}, 
-  title={Efficient Transformer-Based Hyper-Parameter Optimization for Resource-Constrained IoT Environments}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-7},
-  keywords={Transformers;Computational modeling;Computer architecture;Convolutional neural networks;Internet of Things;Training;Accuracy},
-  doi={10.1109/IOTM.001.2300285}}
-
 
 
 # Contact-Info
